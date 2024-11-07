@@ -1,0 +1,15 @@
+D:\Code\Balta.IO\DevOps\MeuSegundoRepo\bin\Debug\net8.0\MeuSegundoRepo.exe
+D:\Code\Balta.IO\DevOps\MeuSegundoRepo\bin\Debug\net8.0\MeuSegundoRepo.deps.json
+D:\Code\Balta.IO\DevOps\MeuSegundoRepo\bin\Debug\net8.0\MeuSegundoRepo.runtimeconfig.json
+D:\Code\Balta.IO\DevOps\MeuSegundoRepo\bin\Debug\net8.0\MeuSegundoRepo.dll
+D:\Code\Balta.IO\DevOps\MeuSegundoRepo\bin\Debug\net8.0\MeuSegundoRepo.pdb
+D:\Code\Balta.IO\DevOps\MeuSegundoRepo\obj\Debug\net8.0\MeuSegundoRepo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Balta.IO\DevOps\MeuSegundoRepo\obj\Debug\net8.0\MeuSegundoRepo.AssemblyInfoInputs.cache
+D:\Code\Balta.IO\DevOps\MeuSegundoRepo\obj\Debug\net8.0\MeuSegundoRepo.AssemblyInfo.cs
+D:\Code\Balta.IO\DevOps\MeuSegundoRepo\obj\Debug\net8.0\MeuSegundoRepo.csproj.CoreCompileInputs.cache
+D:\Code\Balta.IO\DevOps\MeuSegundoRepo\obj\Debug\net8.0\MeuSegundoRepo.sourcelink.json
+D:\Code\Balta.IO\DevOps\MeuSegundoRepo\obj\Debug\net8.0\MeuSegundoRepo.dll
+D:\Code\Balta.IO\DevOps\MeuSegundoRepo\obj\Debug\net8.0\refint\MeuSegundoRepo.dll
+D:\Code\Balta.IO\DevOps\MeuSegundoRepo\obj\Debug\net8.0\MeuSegundoRepo.pdb
+D:\Code\Balta.IO\DevOps\MeuSegundoRepo\obj\Debug\net8.0\MeuSegundoRepo.genruntimeconfig.cache
+D:\Code\Balta.IO\DevOps\MeuSegundoRepo\obj\Debug\net8.0\ref\MeuSegundoRepo.dll
